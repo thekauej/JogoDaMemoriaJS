@@ -1,5 +1,7 @@
 # JogoDaMemoriaJS
 Jogo da Memória, desenvolvido no Bootcamp TQI, utilizando HTML, CSS e JS
+</br>
+<a href="https://thekauej.github.io/JogoDaMemoriaJS/">Jogue Aqui!!!</a>
 
 ![image](https://user-images.githubusercontent.com/39250586/188642658-2ceac944-d5d6-4ba1-b204-92ad73d28011.png)
 ![image](https://user-images.githubusercontent.com/39250586/188642723-63eac21d-a66b-41f0-b5e8-98c8f2f3d724.png)
